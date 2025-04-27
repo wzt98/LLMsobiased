@@ -1,6 +1,6 @@
-通义千问：0~299
-文心一言：300~599
-DALL-E：600~899
-Meta-AI：900~1199
-label_gender：0为男性，1为女性
-label_
+Wanx2.0: 0~299
+Wenxin 3.5: 300~599
+GPT-4o: 600~899
+Llama 3: 900~1199
+label_gender: 0=male, 1=female
+Due to the platform limitations, the full dataset cannot be presented here.
